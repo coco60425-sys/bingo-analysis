@@ -1,0 +1,6 @@
+streamlit==1.31.0
+pandas==2.2.0
+beautifulsoup4==4.12.3
+selenium==4.17.2
+webdriver-manager==4.0.1
+streamlit-autorefresh==1.0.1
